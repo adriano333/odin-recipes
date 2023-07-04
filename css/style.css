@@ -1,0 +1,32 @@
+.shrimp-img {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div.shrimp-upper {
+    background-color: rgb(230, 185, 102);
+    font-weight: bold;
+}
+
+.shrimp-header {
+    font-size: 24px;
+    text-align: center;
+    background-color: rgb(238, 158, 8);
+    color:rgb(255, 255, 255);
+    font-family: system-ui;
+}
+
+.shrimp-sub-header.head {
+    text-align: center;
+    font-size: 25px;
+    background-color:  rgb(238, 158, 8);
+    color:rgb(255, 255, 255);
+}
+
+ul.shrimp-not {
+    list-style: none;
+    text-align: none;
+}
+
